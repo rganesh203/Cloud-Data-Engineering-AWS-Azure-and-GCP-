@@ -1,9 +1,9 @@
-# Cloud-Data-Engineering-AWS-Azure-and-GCP-
+# Cloud-Data-Engineering-AWS-Azure-and-GCP
 Cloud Data Engineering involves building scalable data pipelines and solutions using cloud services. AWS, Azure, and GCP offer tools for storage, processing, analytics, and ETL, enabling efficient data management, transformation, and analysis in the cloud.
 
 Cloud Data Engineering across AWS, Azure, and GCP involves designing, implementing, and managing data solutions in the cloud environments provided by these platforms. Each cloud provider offers a range of services tailored for data engineering, including storage, processing, analytics, and machine learning capabilities. Here’s a brief overview of each:
 
-AWS (Amazon Web Services) AWS provides a comprehensive set of services for data engineering:
+# AWS (Amazon Web Services) AWS provides a comprehensive set of services for data engineering:
                 
                 Storage: Amazon S3 (Simple Storage Service) for scalable object storage, Glacier for archival storage.
                 Compute: Amazon EC2 (Elastic Compute Cloud) for virtual servers, AWS Lambda for serverless computing.
@@ -11,7 +11,7 @@ AWS (Amazon Web Services) AWS provides a comprehensive set of services for data 
                 Big Data: Amazon EMR (Elastic MapReduce) for processing large datasets with Hadoop, Spark, and other frameworks.
                 Analytics: Amazon Athena for interactive query service, AWS Glue for ETL (Extract, Transform, Load).
 
-Azure Microsoft Azure offers a robust ecosystem for data engineering:
+# Azure Microsoft Azure offers a robust ecosystem for data engineering:
 
                 Storage: Azure Blob Storage for unstructured data, Azure Data Lake Storage for big data analytics.                
                 Compute: Azure Virtual Machines, Azure Functions for serverless computing.
@@ -19,7 +19,7 @@ Azure Microsoft Azure offers a robust ecosystem for data engineering:
                 Big Data: Azure HDInsight for Hadoop, Spark, HBase, etc., Azure Databricks for Apache Spark-based analytics.
                 Analytics: Azure Data Factory for ETL, Azure Analysis Services, Power BI for visualization.
 
-GCP (Google Cloud Platform) Google Cloud Platform offers advanced data engineering capabilities:
+# GCP (Google Cloud Platform) Google Cloud Platform offers advanced data engineering capabilities:
 
                 Storage: Google Cloud Storage (GCS), Cloud Bigtable for NoSQL.
                 Compute: Compute Engine, Cloud Functions for serverless execution.
@@ -27,7 +27,7 @@ GCP (Google Cloud Platform) Google Cloud Platform offers advanced data engineeri
                 Big Data: Dataproc for managed Spark and Hadoop clusters, Dataflow for stream and batch processing.
                 Analytics: BigQuery for serverless data warehousing, Data Studio for visualization.
 
-Common Tools and Practices Across Platforms:
+# Common Tools and Practices Across Platforms:
 
                 ETL/ELT: Utilizing services like AWS Glue, Azure Data Factory, or Google Cloud Dataflow for data integration and transformation.
                 Data Warehousing: Using Redshift, Azure Synapse Analytics, or BigQuery for scalable data warehousing solutions.
